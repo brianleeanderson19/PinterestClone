@@ -63,22 +63,20 @@
 /* Wrapper/container styles */
 
 #wrapper {
-  width: 90%;
-  max-width: 1100px;
-  min-width: 800px;
+  width: 100%;
   margin: 50px auto;
 }
 
 /* Columns and pins */
 
 #columns {
-  -webkit-column-count: 3;
+  -webkit-column-count: 5;
   -webkit-column-gap: 10px;
   -webkit-column-fill: auto;
-  -moz-column-count: 3;
+  -moz-column-count: 5;
   -moz-column-gap: 10px;
   -moz-column-fill: auto;
-  column-count: 3;
+  column-count: 5;
   column-gap: 10px;
   column-fill: auto;
   
